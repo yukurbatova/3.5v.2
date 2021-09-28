@@ -56,4 +56,5 @@
             </plugin>
         </plugins>
     </build>
+    <testSourceDirectory>src/main/test/java/ru/netology/manager</testSourceDirectory>    
 </project>
